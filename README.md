@@ -6,5 +6,5 @@ I'm a software engineer who is passionate about making open-source stuff, creati
 
 ## Find me around the web 🌎:
 - Blog  <a href="https://mahieddine.github.io/">mahieddine.github.io</a> 📹 ✍🏾
-- Twitter <a href="https://twitter.com/mahieddinech">Follow me on twitter</a>
+- Twitter <a href="https://twitter.com/_shell0">Follow me on twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/mahieddinecherif/">LinkedIn</a> 💼
